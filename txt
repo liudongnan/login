@@ -1,0 +1,152 @@
+<meta content="梁璇,黑名单,欠钱不还,老赖" name="keywords"/>
+<link href="http://www.ppdaicdn.com/2014/css/basic.css?091901" rel="stylesheet" type="text/css"/>
+<link href="http://www.ppdaicdn.com/2014/css/layout.css?091901" rel="stylesheet" type="text/css"/>
+<link href="http://www.ppdaicdn.com/css/min/validation-min.css" rel="stylesheet"/>
+<link href="http://www.ppdaicdn.com/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<script src="http://www.ppdaicdn.com/js/newRefer.js?v=0807"></script>
+<link href="http://www.ppdaicdn.com/2014/css/blacklist.css" rel="stylesheet" type="text/css">
+</link></meta></head>
+<body>
+<div class="top PPD_header_nav">
+<div class="top_inner w1188center clearfix PPD_login_status">
+</div>
+</div>
+<!--头部菜单-->
+<!--头部开始-->
+<div class="mainNav">
+<div class="mainNav_inner clearfix w1000center">
+<h1 class="logo">
+<a href="http://www.ppdai.com/"><img alt="" src="https://acppdaicdn.b0.upaiyun.com/img/logo.png"/></a>
+</h1>
+<ul id="tabIcon">
+<li class="hasSubMenu">
+<a category="Lend" href="http://invest.ppdai.com/index" id="top-menu-lend" {1}="">我要投资</a>
+<div class="subMenu">
+<a href="http://www.ppdai.com/lend">散标列表</a>
+<a href="http://www.ppdai.com/debtdeal/AlldebtList/DebtList">债权交易</a>
+<a href="http://www.ppdai.com/product/plan/rainbow">彩虹计划</a>
+<a href="http://product.invest.ppdai.com/">拍活宝</a>
+<a href="http://www.ppdai.com/help/nuDeftFinancierPlan">新手专区</a>
+</div>
+</li>
+<li class="hasSubMenu">
+<a category="Borrow" href="http://loan.ppdai.com/borrow" {2}="">我要借款</a>
+<div class="subMenu">
+<a href="http://loan.ppdai.com/borrow">我要借款</a>
+<a href="http://loan.ppdai.com/account/repaymentlist">我要还款</a>
+<a href="http://www.ppdai.com/borrow/interestcalculate">利息计算器</a>
+</div>
+</li>
+<li class="hasSubMenu">
+<a category="Account" href="http://www.ppdai.com/account" {3}="">我的账户</a>
+<div class="subMenu">
+<a href="http://loan.ppdai.com/account/borrow">借款账户</a>
+<a href="http://www.ppdai.com/account/lend">投资账户</a>
+</div>
+</li>
+<li class="hasSubMenu">
+<a href="http://www.ppdai.com/landinginformat.html" id="top-menu-about">信息披露</a>
+<div class="subMenu">
+<a href="http://www.ppdai.com/help/aboutus">关于我们</a>
+<a href="http://www.ppdai.com/help/howworks">工作原理</a>
+<a href="http://ppdai.zhiye.com/" target="_blank">招贤纳士</a>
+<a href="http://www.ppdai.com/landinginformat.html" target="_blank">信息披露</a>
+</div>
+</li>
+<li class="hasSubMenu">
+<a id="top-menu-about">帮助/论坛</a>
+<div class="subMenu">
+<a href="http://help.ppdai.com/">帮助中心</a>
+<a href="http://group.ppdai.com/">论坛</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<!--头部结束-->
+<div class="clear"></div>
+<div class="row show-grid center980" id="content_nav">
+<div>
+<ul class="breadcrumb" style="border: none !important;">
+<li><a href="/">首页</a> <span class="divider">&gt;</span></li>
+<li><a href="/blacklist">黑名单</a> <span class="divider">&gt;</span></li>
+<li class="active">黑名单详情</li>
+</ul>
+</div>
+<div class="next_tab_content">
+<div class="blacklist_detail_nav">
+<div class="info_tit">
+<div></div>
+<span class="float_l">梁璇__男_14260119940224****_老赖_欠钱不还_不诚信</span></div>
+<div>
+<img src="http://static.ppdai.com/app_themes/images/head/nophoto_120.gif" width="140"/>
+<table cellpadding="0" cellspacing="0" class="detail_table">
+<tr>
+<td class="detail_td">累计借入本金：¥500.00</td>
+<td class="detail_td">最大逾期天数：<span class="colredz">30 天</span></td>
+<td class="detail_td"><a href="http://www.baidu.com/s?wd=%c1%ba%e8%af" target="_blank">百度 梁璇</a></td>
+</tr>
+<tr>
+<td class="detail_td"></td>
+<td class="detail_td"></td>
+<td class="detail_td"><a href="http://www.google.com/search?hl=zh-CN&amp;q=%c1%ba%e8%af" target="_blank">Google 梁璇</a></td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="table_nav">
+<table cellpadding="0" cellspacing="0">
+<tr class="tit_nav">
+<th>列表编号</th>
+<th>借款期数</th>
+<th>借款时间</th>
+<th>逾期天数</th>
+<th>逾期本息</th>
+</tr>
+<tr>
+<td>13567745</td>
+<td>2 个月</td>
+<td>2016-06-07</td>
+<td>30 天</td>
+<td>¥510.50</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="blacklist_detail_nav">
+<div class="info_tit">
+<div></div>
+<span class="float_l">曝光资料</span></div>
+<ul>
+<li>
+<p><strong>梁璇__男_14260119940224****_老赖_欠钱不还_不诚信</strong></p>
+<p>
+<hr>
+                                    用户名：pdu2130278681
+                                    <br>
+                                    姓名：梁璇
+                                    <br>
+                                    手机号：15535735***
+                                    <br>
+                                    身份证号：14260119940224****
+                                    <br>
+</br></br></br></br></hr></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">
+</div>
+<div class="footer">
+<div class="footer_footerBottom">
+<ul class="footer_footerBottomNav clearfix">
+<li><span class="webindex"></span><a href="/">网站首页</a>|</li>
+<li><span class="aboutus"></span><a href="/help/aboutus">关于我们</a>|</li>
+<li><span class="mapsite"></span><a href="/home/sitemap">网站地图</a>|</li>
+<li><span class="webservice"></span><a href="http://help.ppdai.com/">帮助中心</a>|</li>
+<li class="nomr"><span class="onlneserve"></span><a href="http://v1.live800.com/live800/chatClient/chatbox.jsp?companyID=507669&amp;configID=41819&amp;jid=1392904562" target="_blank">在线咨询</a></li>
+</ul>
